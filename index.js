@@ -24,7 +24,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`, 
+"caption": `VIPbots`, 
 "thumbnailUrl": 'https://telegra.ph/file/313cd5e07455d25a8db88.jpg'
 } 
 }
