@@ -1,6 +1,7 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * 
+   Creator/Author DenzzJB
+   * 
 */
 
 const fs = require('fs')
@@ -17,7 +18,7 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'DenzzJB'
+global.ownername = 'DenzzVIPBOT'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
@@ -25,21 +26,21 @@ global.available = false //status online (online)
 global.owner = ['6285723219491']
 global.premium = ['6285723219491']
 global.packname = 'ERORER'
-global.author = 'WhatsApp Service'
+global.author = 'DenzzVIP'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    admin: 'Fitur Nya Buat Admin Tolol',
+    botAdmin: 'Bot Nya Liat Udah Jadi Admin Belum? jadiin admin',
+    owner: 'lo bukan owner jadi gk bisa',
+    group: 'buat di grub doank',
+    private: 'fitur dipake buat pm/pc/private',
+    bot: 'fitur khusus pengguna bot',
+    wait: 'TUNGGU YA BRO',
+    endLimit: 'limit anda habis jadi tunggu sampe di reset',
 }
 global.limitawal = {
     premium: "Infinity",
